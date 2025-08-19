@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.bindiyavijay.site
+USER_HOST: user.bindiyavijay.site
+SHIPPING_HOST: shipping.bindiyavijay.site
+CART_HOST: cart.bindiyavijay.site
+PAYMENT_HOST: payment.bindiyavijay.site
